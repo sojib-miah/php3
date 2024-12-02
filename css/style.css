@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form{
+    background-color: #ffff;
+    /* width: 600px; */
+    padding: 20px;
+    border-radius: 10px;
+}
+input{
+    padding: 6px 3px;
+    margin: 15px 0;
+    display: block;
+   /* width: 300px; */
+}
+button{
+    padding: 12px 20px;
+    cursor: pointer;
+}
